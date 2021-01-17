@@ -1,4 +1,4 @@
-# Shift - Task Application
+# Draggable Task Application
 
 I used [Create React App](https://github.com/facebook/create-react-app) to create the skeleton of the structure.
 
